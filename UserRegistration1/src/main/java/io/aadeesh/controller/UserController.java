@@ -25,6 +25,7 @@ public class UserController
 	@RequestMapping("/")
 	public String home()
 	{
+		
 		return "home";
 	}
 	
