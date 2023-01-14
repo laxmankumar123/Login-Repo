@@ -1,6 +1,6 @@
 # User-Registration-Login-SpringBoot
 
-Still in development. User Registration using Spring Boot, Data JPA, in-memory H2 db .
+ User Registration using Spring Boot, Data JPA, in-memory H2 db .
 Application Requires/Java Dependencies:
 Java JDK 1.8
 Maven 
@@ -11,6 +11,8 @@ H2 database(embedded)
 
 Front end UI:
 Html,CSS
+
+
 
 Build + Run:
 $ mvn install
