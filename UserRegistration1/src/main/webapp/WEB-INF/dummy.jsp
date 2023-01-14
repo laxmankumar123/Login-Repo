@@ -22,7 +22,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 </head>
 <body>
 
-	<h3>Success Page</h3>
+	<h3>Success Page </h3>
 	<%
 		
 		 response.setHeader("Cache-control", "no-cache, no-store, must-revalidate");
